@@ -1,5 +1,4 @@
-# FCFM
-## MINERIA DE DATOS
-## FACE I
+# FCFM, MINERIA DE DATOS
+## FAsE I
 
-[Mapa mental 1]
+[Mapa mental 1](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/MapaMental_1_1806488.pdf)
