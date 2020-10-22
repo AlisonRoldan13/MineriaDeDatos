@@ -9,3 +9,4 @@
 
 ## FASE II
 - [Ejercicio. Base de Datos](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/AnalisisBD_1806488.pdf)
+- [PythonBasico_1806488](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/PythonBasico_1806488.ipynb)
