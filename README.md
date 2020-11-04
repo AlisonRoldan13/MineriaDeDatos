@@ -12,3 +12,4 @@
 - [PythonBasico_1806488](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/PythonBasico_1806488.ipynb)
 - [Avance 1- PIA](https://github.com/SaulArtHdz/MINERIADATOS/blob/master/Equipo%209%20-%20MinDat%20Gpo%20002%20-%20Avance%201%20PIA%20I.pdf)
 - [Limpieza de Datos Equipo09](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/Untitled%20(1).ipynb)
+- [Visualizacion](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/Visualizacion.ipynb)
