@@ -16,3 +16,4 @@
 
 ## FASE III
 - [AvancePIA_II_Grupo002_Equipo09](https://github.com/SaulArtHdz/MINERIADATOS/blob/master/AvancePIA_II_Gpo002_Equipo9.ipynb)
+- [Avance Poster](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/Preview%20Poster%20-%20Equipo%209%20Gpo%20002%20Miner%C3%ADaDatos.pdf)
